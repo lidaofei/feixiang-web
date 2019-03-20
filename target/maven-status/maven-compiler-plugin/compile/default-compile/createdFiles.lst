@@ -1,0 +1,5 @@
+com\feixiang\demo\dto\TestDTO.class
+com\feixiang\demo\controller\TestInit.class
+com\feixiang\demo\controller\TestController.class
+com\feixiang\demo\controller\TestInitSum.class
+com\feixiang\demo\vo\TestVO.class
